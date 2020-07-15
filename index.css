@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.0.6/css/all.css');
+
+body{
+    font-family: "Poppins",
+          sans-serif;
+          padding:0;
+          margin:0;
+          background-color:#eee;
+}
+form{
+    width:100%;
+    padding:10px;
+    margin:10px;
+}
+form input{
+   background: rgb(238, 238, 238);
+    width: 90%;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+button{
+    background-color:crimson;
+    color:#fff;
+    border:1px solid rgb(192,64,89);
+    padding:10px;
+}
